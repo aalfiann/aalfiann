@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aalfiann/aalfiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hi, I'm M ABD AZIZ ALFIAN 👋</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=aalfiann&show_icons=true&theme=radical" width="380">
+<p><em>Senior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+</em></p>
+
+[![Twitter: aalfiann](https://img.shields.io/twitter/follow/aalfiann?style=flat-square)](https://twitter.com/aalfiann)
+[![GitHub aalfiann](https://img.shields.io/github/followers/aalfiann?label=follow%20github&style=flat-square)](https://github.com/aalfiann)
+[![Paypal aalfiann88](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/aalfiann88)
+
+<br>
+
+### More about me...
+
+```js
+const me = {
+  pronouns: 'He/Him',
+  job: 'Senior Software Developer',
+  code: 'C#, JavaScript, and PHP',
+  hobby: 'Open source enthusiast'
+}
+```
+---
