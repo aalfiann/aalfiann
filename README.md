@@ -31,7 +31,8 @@ const me = {
   pronouns: 'He/Him',
   job: 'Senior Software Developer',
   code: 'C#, JavaScript, and PHP',
-  hobby: 'Open source enthusiast'
+  about: 'Open source enthusiast',
+  hobby: 'Create some stuff and contributing to other projects'
 }
 ```
 ---
