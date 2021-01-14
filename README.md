@@ -32,7 +32,9 @@ const me = {
   job: 'Senior Software Developer',
   code: 'C#, JavaScript, and PHP',
   about: 'Open source enthusiast',
-  hobby: 'Create some stuff and contributing to other projects'
+  hobby: 'Create some stuff and contributing to other projects',
+  portfolio: 'https://aalfiann.github.io',
+  website: 'https://hexoder.com'
 }
 ```
 ---
