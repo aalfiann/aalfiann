@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 [![GitHub aalfiann](https://img.shields.io/github/followers/aalfiann?label=follow%20github&style=flat-square)](https://github.com/aalfiann)
 [![Paypal aalfiann88](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/aalfiann88)
 
+<img src="https://github-readme-stats.vercel.app/api?username=aalfiann&show_icons=true&theme=radical" align="right" width="380">
+
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=aalfiann&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfiann&layout=compact)
 
 ### More about me...
