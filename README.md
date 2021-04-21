@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 [![Paypal aalfiann88](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/aalfiann88)
 
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfiann&layout=compact">
+<br>
 
 ### More about me...
 
