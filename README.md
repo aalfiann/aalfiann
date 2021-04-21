@@ -38,3 +38,5 @@ const me = {
 }
 ```
 ---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfiann&layout=compact)
