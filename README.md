@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfiann&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=aalfiann&show_icons=true&theme=radical)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfiann&layout=compact)
 
 ### More about me...
 
