@@ -34,8 +34,7 @@ const me = {
   code: 'C#, JavaScript, and PHP',
   about: 'I\'m developer, investor and open source enthusiast',
   hobby: 'Investing for the future of technology, create some stuff, writing articles and contributing to other projects',
-  portfolio: 'https://aalfiann.github.io',
-  blog: 'https://hexoder.com'
+  website: 'https://sociabuzz.com/aalfiann'
 }
 ```
 ---
