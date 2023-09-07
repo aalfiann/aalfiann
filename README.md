@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 const me = {
   pronouns: 'He/Him',
   job: 'Senior Software Developer',
-  code: 'C#, JavaScript, and PHP',
+  code: 'C#, JavaScript, TypeScript and PHP',
   about: 'I\'m developer, investor and open source enthusiast',
   hobby: 'Investing for the future of technology, create some stuff, writing articles and contributing to other projects',
   website: 'https://linktr.ee/aalfiann'
