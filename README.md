@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Note: I move to gitlab for my next open source project...</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=aalfiann&show_icons=true&theme=radical" align="right" width="380">
 <h2> Hi, I'm M ABD AZIZ ALFIAN 👋</h2>
 
