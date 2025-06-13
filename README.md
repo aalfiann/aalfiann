@@ -46,8 +46,7 @@ actualy I run my own business company for these SaaS.
 - **Telemedicine Agregator [B2B SaaS]** - Completed and running but company management fails.
 - **Point of Sales [B2B SaaS]** - On progress development.
 
-I build, lead and architect this SaaS,  
-Just contact me if you want the demo.
+I build, lead and architect this SaaS, just contact me if you want the demo.  
 I'm Open to Collaborations, Projects and Partnerships. 
 
 ---
