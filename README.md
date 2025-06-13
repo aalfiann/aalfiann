@@ -39,10 +39,16 @@ Here is my best personal project (paid/free) which helps you scaling your applic
 ---
 
 ### My SaaS Projects:
-- [TKD Express](https://tkdexpress.co.id) - Courier and Cargo Systems [B2B SaaS].
-- [GetMedik](https://getmedik.co.id) - Telemedicine Agregator [B2B SaaS].
-- [CIP](https://ptcip.co.id) - Multi Level Marketing [B2B SaaS].
-- [Point of Sales](#) - On progress development.
+Sorry my SaaS projects is private,  
+actualy I run my own business company for these SaaS.
+- **Courier and Cargo Systems [B2B SaaS]** - Completed and running.
+- **Multi Level Marketing [B2B SaaS]** - Completed and running.
+- **Telemedicine Agregator [B2B SaaS]** - Completed and running but company management fails.
+- **Point of Sales [B2B SaaS]** - On progress development.
+
+I build, lead and architect this SaaS,  
+Just contact me if you want the demo.
+I'm Open to Collaborations, Projects and Partnerships. 
 
 ---
 
