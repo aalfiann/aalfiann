@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h2> Hi, I'm M Abd Aziz Alfian 👋</h2>
 
 <p><em>Senior Software Developer from Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-  I'm an agnostic framework. I can code with many frameworks like .Net, React, Vue, Svelte, Solid, Laravel, Symphony, SlimPHP, jQuery, and many more. 
 </em></p>
 
 - ⚡ I'm focus about high scalability and high performance system architecture.
