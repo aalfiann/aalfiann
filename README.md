@@ -18,9 +18,30 @@ Here are some ideas to get you started:
 <p><em>Senior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
+- ⚡ I'm focus about high scalability and high performance system architecture.
+- 🔭 I’m currently building my own SaaS project (private).
+- 🌱 I like to investing my time for the future of technology.
+
+
 [![Twitter: aalfiann](https://img.shields.io/twitter/follow/aalfiann?style=flat-square)](https://twitter.com/aalfiann)
 [![GitHub aalfiann](https://img.shields.io/github/followers/aalfiann?label=follow%20github&style=flat-square)](https://github.com/aalfiann)
 [![Paypal aalfiann88](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/aalfiann88)
+
+---
+
+### My Best Personal Projects:
+Here is my best personal project (paid/free) which helps you scaling your applications:
+- [ImgProxify (Image CDN and Proxy Generator)](https://codecanyon.net/item/imgproxify-image-cdn-and-image-proxy-generator/28833168) - Paid and Sell in US Market CodeCanyon.
+- [Open SSO (Single Sign On - JWT standard for Oauth 2.0)](https://codecanyon.net/item/open-sso-single-sign-on-nodejs/44234269) - Paid and Sell in US Market CodeCanyon.
+- [Fastify Cacheman (Multi Caching Strategy Provider)](https://gitlab.com/aalfiann/fastify-cacheman) - Free and available in Fastify Ecosystems.
+- [Fly Json ODM (Object Document Mapper)](https://github.com/aalfiann/fly-json-odm) - Free to use.
+- and many more... just explore my GitHub and GitLab.
+---
+
+### My SaaS Projects:
+- [TKD Express](https://tkdexpress.co.id) - Courier and Cargo Systems [B2B SaaS].
+- [GetMedik](https://getmedik.co.id) - Telemedicine Agregator [B2B SaaS].
+- [Point of Sales](#) - On progress development.
 
 ---
 
