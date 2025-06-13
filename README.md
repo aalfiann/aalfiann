@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=aalfiann&show_icons=true&theme=radical" align="right" width="380">
 <h2> Hi, I'm M ABD AZIZ ALFIAN 👋</h2>
 
-<p><em>Senior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+<p><em>Senior Software Developer from Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
 - ⚡ I'm focus about high scalability and high performance system architecture.
-- 🔭 I’m currently building my own SaaS project (private).
-- 🌱 I like to investing my time for the future of technology.
+- 🔭 I’m experienced to build more than 3 B2B SaaS projects.
+- 🌱 I'm open minded and like to investing my time for the future of technology.
+
+<p><em><b>Speed without scalability is fragile. Scalability ensures sustainable speed.</b></em></p>
 
 
 [![Twitter: aalfiann](https://img.shields.io/twitter/follow/aalfiann?style=flat-square)](https://twitter.com/aalfiann)
@@ -58,6 +60,7 @@ const me = {
   pronouns: 'He/Him',
   job: 'Senior Software Developer',
   code: 'C#, JavaScript, TypeScript and PHP',
+  stacks: 'Fastify, Astro.JS, PostgreSQL, Redis and Docker',
   about: 'I\'m developer, investor and open source enthusiast',
   hobby: 'Investing for the future of technology, create some stuff, writing articles and contributing to other projects',
   website: 'https://linktr.ee/aalfiann'
