@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </em></p>
 
 - ⚡ I'm focus about high scalability and high performance system architecture.
-- 🔭 I’m experienced to build more than 3 B2B SaaS projects.
+- 🔭 I’m experienced to build more than 3 Big B2B SaaS projects.
 - 🌱 I'm open minded and like to investing my time for the future of technology.
 
 <p><em><b>Speed without scalability is fragile. Scalability ensures sustainable speed.</b></em></p>
