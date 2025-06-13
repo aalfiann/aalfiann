@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=aalfiann&show_icons=true&theme=radical" align="right" width="380">
-<h2> Hi, I'm M ABD AZIZ ALFIAN 👋</h2>
+<h2> Hi, I'm M Abd Aziz Alfian 👋</h2>
 
 <p><em>Senior Software Developer from Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
