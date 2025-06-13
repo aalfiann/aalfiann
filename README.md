@@ -45,7 +45,7 @@ Sorry my SaaS projects is private,
 actualy I run my own business company for these SaaS.
 - **Courier and Cargo Systems [B2B SaaS]** - Completed and running.
 - **Multi Level Marketing [B2B SaaS]** - Completed and running.
-- **Telemedicine Agregator [B2B SaaS]** - Completed and running but company management fails.
+- **Telemedicine Agregator [B2B SaaS]** - Completed and running.
 - **Point of Sales [B2B SaaS]** - On progress development.
 
 I build, lead and architect this SaaS, just contact me if you want the demo.  
