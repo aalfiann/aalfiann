@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ### My Best Personal Projects:
 Here is my best personal project (paid/free) which helps you scaling your applications:
-- [ImgProxify (Image CDN and Proxy Generator)](https://codecanyon.net/item/imgproxify-image-cdn-and-image-proxy-generator/28833168) - Paid and Sell in US Market CodeCanyon.
 - [Open SSO (Single Sign On - JWT standard for Oauth 2.0)](https://codecanyon.net/item/open-sso-single-sign-on-nodejs/44234269) - Paid and Sell in US Market CodeCanyon.
+- [ImgProxify (Image CDN and Proxy Generator)](https://codecanyon.net/item/imgproxify-image-cdn-and-image-proxy-generator/28833168) - Paid and Sell in US Market CodeCanyon.
 - [Fastify Cacheman (Multi Caching Strategy Provider)](https://gitlab.com/aalfiann/fastify-cacheman) - Free and available in Fastify Ecosystems.
 - [Fly Json ODM (Object Document Mapper)](https://github.com/aalfiann/fly-json-odm) - Free to use.
 - and many more... just explore my GitHub and GitLab.
