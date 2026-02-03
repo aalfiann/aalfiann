@@ -41,7 +41,10 @@ Here is my best personal project (paid/free) which helps you scaling your applic
 ---
 
 ### My SaaS Projects:
-Sorry my SaaS projects is private,  
+Here is my B2C SaaS projects:
+- [Omniblazz - Omnichannel Chat & Whatsapp Blast AI](https://omniblazz.com)
+
+Sorry my B2B SaaS projects is private,  
 actualy I run my own business company for these SaaS.
 - **Courier and Cargo Systems [B2B SaaS]** - Completed and running.
 - **Multi Level Marketing [B2B SaaS]** - Completed and running.
