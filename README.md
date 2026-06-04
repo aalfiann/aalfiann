@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=aalfiann&show_icons=true&theme=radical" align="right" width="380">
 <h2> Hi, I'm M Abd Aziz Alfian 👋</h2>
 
-<p><em>Senior Software Developer from Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+<p><em>AI Native Engineer | DevOps Engineer | Senior Software Developer from Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
 - ⚡ I'm focus about high scalability and high performance system architecture.
@@ -41,7 +41,7 @@ Here is my best personal project (paid/free) which helps you scaling your applic
 ---
 
 ### My SaaS Projects:
-Here is my B2C SaaS projects:
+Here is my B2C SaaS with AI projects:
 - [Omniblazz - Omnichannel Chat & Whatsapp Blast AI](https://omniblazz.com)
 
 Sorry my B2B SaaS projects is private,  
