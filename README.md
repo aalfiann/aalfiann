@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 </em></p>
 
 - ⚡ I'm focus about high scalability and high performance system architecture.
-- 🔭 I’m experienced to build and architect more than 3 Big B2B SaaS projects.
-- 🌱 I'm open minded and like to investing my time for the future of technology.
+- 🔭 Experienced in building and architecting large-scale B2B SaaS platforms.
+- 🌱 I dedicate part of my time and engineering expertise to volunteer and social impact projects.
+- 🤝 I believe technology should not only create business value, but also create meaningful benefits for people and communities.
 
 <p><em><b>Speed without scalability is fragile. Scalability ensures sustainable speed.</b></em></p>
 
@@ -31,28 +32,41 @@ Here are some ideas to get you started:
 
 ---
 
-### My Best Personal Projects:
-Here is my best personal project (paid/free) which helps you scaling your applications:
-- [Open SSO (Single Sign On - JWT standard for Oauth 2.0)](https://codecanyon.net/item/open-sso-single-sign-on-nodejs/44234269) - Paid and Sell in US Market CodeCanyon.
-- [ImgProxify (Image CDN and Proxy Generator)](https://codecanyon.net/item/imgproxify-image-cdn-and-image-proxy-generator/28833168) - Paid and Sell in US Market CodeCanyon.
+### My Volunteer Projects:
+I dedicate my time and engineering expertise to building free technology projects intended to provide meaningful value to individuals and communities.
+
+- [Quraniya - Read, Listen and Understanding Quran](https://quraniya.netlify.app)
+- [Adhaniya - Prayer Times & Qibla Direction](https://adhaniya.netlify.app)
+- [KeepSecret - Secure Your Crypto Wallet](https://keepsecret.netlify.app)
+
+These projects are developed independently and provided free of charge as part of my commitment to contributing technology for social benefit.
+
+### Personal and Open Source Projects:
+I also build commercial products and free/open-source developer tools focused on performance, scalability, and modern application architecture.
+
+- [Open SSO (Single Sign On - JWT standard for Oauth 2.0)](https://codecanyon.net/item/open-sso-single-sign-on-nodejs/44234269) - Commercial product, sold internationally through CodeCanyon.
+- [ImgProxify (Image CDN and Proxy Generator)](https://codecanyon.net/item/imgproxify-image-cdn-and-image-proxy-generator/28833168) - Commercial product, sold internationally through CodeCanyon.
 - [Fastify Cacheman (Multi Caching Strategy Provider)](https://gitlab.com/aalfiann/fastify-cacheman) - Free and available in Fastify Ecosystems.
 - [Fly Json ODM (Object Document Mapper)](https://github.com/aalfiann/fly-json-odm) - Free to use.
 - and many more... just explore my GitHub and GitLab.
 ---
 
-### My SaaS Projects:
-Here is my B2C SaaS with AI projects:
+### SaaS Projects:  
+I also build and operate SaaS products, including B2C and B2B platforms.
+
+**B2C SaaS**:  
 - [Omniblazz - Omnichannel Chat & Whatsapp Blast AI](https://omniblazz.com)
 
-Sorry my B2B SaaS projects is private,  
-actualy I run my own business company for these SaaS.
+**B2B SaaS**:  
+Some of my B2B SaaS projects are private and operated through my own business.
 - **Courier and Cargo Systems [B2B SaaS]** - Completed and running.
 - **Multi Level Marketing [B2B SaaS]** - Completed and running.
 - **Telemedicine Agregator [B2B SaaS]** - Completed and running.
 - **Point of Sales [B2B SaaS]** - On progress development.
 
-I build, lead and architect this SaaS, just contact me if you want the demo.  
-I'm Open to Collaborations, Projects and Partnerships. 
+I have been responsible for the architecture, engineering, and technical leadership of these platforms.  
+For private projects, demos and further information are available upon request.  
+I'm open to collaborations, technology projects, and strategic partnerships.  
 
 ---
 
