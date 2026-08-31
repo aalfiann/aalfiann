@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-### My Volunteer Projects:
+### 🌍 Volunteer & Social Impact Projects
 I dedicate my time and engineering expertise to building free technology projects intended to provide meaningful value to individuals and communities.
 
 - [Quraniya - Read, Listen and Understanding Quran](https://quraniya.netlify.app)
@@ -41,7 +41,7 @@ I dedicate my time and engineering expertise to building free technology project
 
 These projects are developed independently and provided free of charge as part of my commitment to contributing technology for social benefit.
 
-### Personal and Open Source Projects:
+### 💻 Personal and Open Source Projects
 I also build commercial products and free/open-source developer tools focused on performance, scalability, and modern application architecture.
 
 - [Open SSO (Single Sign On - JWT standard for Oauth 2.0)](https://codecanyon.net/item/open-sso-single-sign-on-nodejs/44234269) - Commercial product, sold internationally through CodeCanyon.
@@ -51,7 +51,7 @@ I also build commercial products and free/open-source developer tools focused on
 - and many more... just explore my GitHub and GitLab.
 ---
 
-### SaaS Projects:  
+### 🚀 SaaS Projects  
 I also build and operate SaaS products, including B2C and B2B platforms.
 
 **B2C SaaS**:  
